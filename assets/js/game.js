@@ -148,7 +148,7 @@ var currentRoomy;
 //Directions:
 //1=North, 2= East, 3= South, 4= West
 //2, 3, 4, 1, 3, 4, 1, 2, 1, 2, 4, 4,
-var pathCorrect = [3, 2, 3];
+var pathCorrect = [2, 3, 4, 1, 3, 4, 1, 2, 1, 2, 4, 4, 3, 2, 3];
 var pathLeft = pathCorrect.slice(0, 16);
 var clueBag = [];
 var currentClue;
