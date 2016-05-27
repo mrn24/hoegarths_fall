@@ -2,7 +2,7 @@
 
 "clue1.png":
 {
-	"frame": {"x":1438,"y":39,"w":80,"h":49},
+	"frame": {"x":1144,"y":78,"w":80,"h":49},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":23,"y":1,"w":80,"h":49},
@@ -11,7 +11,7 @@
 },
 "clue10.png":
 {
-	"frame": {"x":632,"y":1,"w":101,"h":100},
+	"frame": {"x":734,"y":1,"w":101,"h":100},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":101,"h":100},
@@ -20,7 +20,7 @@
 },
 "clue11.png":
 {
-	"frame": {"x":838,"y":1,"w":100,"h":100},
+	"frame": {"x":940,"y":1,"w":100,"h":100},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
@@ -29,7 +29,7 @@
 },
 "clue12.png":
 {
-	"frame": {"x":940,"y":1,"w":100,"h":100},
+	"frame": {"x":1042,"y":1,"w":100,"h":100},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
@@ -38,7 +38,7 @@
 },
 "clue13.png":
 {
-	"frame": {"x":426,"y":1,"w":101,"h":101},
+	"frame": {"x":528,"y":1,"w":101,"h":101},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":101,"h":101},
@@ -47,7 +47,7 @@
 },
 "clue14.png":
 {
-	"frame": {"x":735,"y":1,"w":101,"h":100},
+	"frame": {"x":837,"y":1,"w":101,"h":100},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":101,"h":100},
@@ -56,7 +56,7 @@
 },
 "clue14a.png":
 {
-	"frame": {"x":321,"y":1,"w":103,"h":102},
+	"frame": {"x":423,"y":1,"w":103,"h":102},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":0,"w":103,"h":102},
@@ -74,7 +74,7 @@
 },
 "clue2.png":
 {
-	"frame": {"x":214,"y":1,"w":105,"h":103},
+	"frame": {"x":316,"y":1,"w":105,"h":103},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":4,"w":105,"h":103},
@@ -83,7 +83,7 @@
 },
 "clue3.png":
 {
-	"frame": {"x":108,"y":1,"w":104,"h":104},
+	"frame": {"x":210,"y":1,"w":104,"h":104},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":2,"w":104,"h":104},
@@ -92,7 +92,7 @@
 },
 "clue4.png":
 {
-	"frame": {"x":1,"y":1,"w":105,"h":104},
+	"frame": {"x":103,"y":1,"w":105,"h":104},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":3,"y":3,"w":105,"h":104},
@@ -110,7 +110,7 @@
 },
 "clue6.png":
 {
-	"frame": {"x":1438,"y":1,"w":102,"h":36},
+	"frame": {"x":1226,"y":78,"w":102,"h":36},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":102,"h":36},
@@ -119,7 +119,7 @@
 },
 "clue7.png":
 {
-	"frame": {"x":529,"y":1,"w":101,"h":101},
+	"frame": {"x":631,"y":1,"w":101,"h":101},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":101,"h":101},
@@ -128,20 +128,20 @@
 },
 "clue8.png":
 {
-	"frame": {"x":1349,"y":1,"w":87,"h":75},
+	"frame": {"x":1349,"y":1,"w":84,"h":75},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":87,"h":75},
-	"sourceSize": {"w":87,"h":75},
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":75},
+	"sourceSize": {"w":84,"h":75},
 	"pivot": {"x":0.5,"y":0.5}
 },
 "clue9.png":
 {
-	"frame": {"x":1042,"y":1,"w":100,"h":99},
+	"frame": {"x":1,"y":1,"w":100,"h":122},
 	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":0,"y":1,"w":100,"h":99},
-	"sourceSize": {"w":100,"h":100},
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":122},
+	"sourceSize": {"w":100,"h":122},
 	"pivot": {"x":0.5,"y":0.5}
 }},
 "meta": {
@@ -149,8 +149,8 @@
 	"version": "1.0",
 	"image": "clues.png",
 	"format": "RGBA8888",
-	"size": {"w":1541,"h":106},
+	"size": {"w":1434,"h":128},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:2b404e81090b13b0a26ead21b58fa5ff:b3a03ea93a970533693f5aff9070604c:6c6d20829874b5210b8db39adeda13c8$"
+	"smartupdate": "$TexturePacker:SmartUpdate:9e1595a5449eab2cf72b3928f6af5d5a:236758649428a5cdb693c8cc78ac2a52:6c6d20829874b5210b8db39adeda13c8$"
 }
 }
